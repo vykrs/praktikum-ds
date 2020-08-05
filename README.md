@@ -1,2 +1,2 @@
-# praktikum-ds
-Ноутбуки с Практикума
+# praktikum projects
+Проекты с Яндекс.Практикума.
