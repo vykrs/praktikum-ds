@@ -10,7 +10,7 @@
 
 ### Использованные библиотеки
 
-- python + numpy, scipy, pandas
+- python + numpy, scipy, pandas (стек для анализа данных)
 - matplotlib, seaborn (визуализация)
 - NLTK, spaCy (NLP)
 - scikit-learn, Light-GBM (машинное обучение)
